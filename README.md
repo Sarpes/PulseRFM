@@ -20,6 +20,19 @@ RFM (Recency, Frequency, Monetary) analysis built in SQL Server to segment custo
 | Can't Lose Them | High frequency, long gone |
 | Hibernating | Low recency and frequency |
 
+## Code
+
+![RFM Table Build](images/SQL_2.png)
+
+![Segmentation Logic](images/SQL_3.png)
+
+## Output
+
+![Query Results](images/SQL_4.png)
+
+## Results
+
+![RFM Segments - Customer Count](images/SQL_5.png)
 ## Files
 | File | Description |
 |---|---|
